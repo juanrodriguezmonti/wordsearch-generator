@@ -5,6 +5,8 @@
 Created by Juan Rodríguez Monti - juan.rodriguezmonti@gmail.com based on
 the core work developed by SuperBiasedMan, available at 
 http://codereview.stackexchange.com/questions/98247/wordsearch-generator
+
+This one is called Amelie in honour to my Grandma! :)
 """
 
 import random
@@ -143,6 +145,8 @@ def printGrid(grid):
         fileword.write("\n")
     
     fileword.close()
+
+# I use here spanish words, reeplace them with the ones you like
 
 words = ["ventarron", "regalo", "pasado","guapeza","cafetin","enfermo",
          "dimensional", "dictionary", "lacklustre", "derrota", "iguala",
