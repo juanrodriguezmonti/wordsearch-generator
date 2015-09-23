@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Created by Juan Rodríguez Monti - juan.rodriguezmonti@gmail.com based on
+Adapted by Juan Rodríguez Monti - juan.rodriguezmonti@gmail.com based on
 the core work developed by SuperBiasedMan, available at 
 http://codereview.stackexchange.com/questions/98247/wordsearch-generator
 
