@@ -2,11 +2,9 @@
 # -*- coding: utf-8 -*-
 
 """
-Adapted by Juan Rodríguez Monti - juan.rodriguezmonti@gmail.com based on
-the core work developed by SuperBiasedMan, available at 
+Little hack to this 
 http://codereview.stackexchange.com/questions/98247/wordsearch-generator
 
-This one is called Amelie in honour to my Grandma! :)
 """
 
 import random
