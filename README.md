@@ -1,4 +1,4 @@
-# Amelie, wordsearch-generator | generador de sopa de letras
+# Amelie, Python Wordsearch-Generator | Generador de Sopa de Letras escrito en Python
 
 Amelie Wordsearch generator, aka sopa de letras in Spanish, generator written in Python. This is a little hack to the work of of SuperBiasedMan[0], that lets you output the wordsearch to A4 sized text pages ready to print and play.
 
