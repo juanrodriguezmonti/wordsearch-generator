@@ -1,7 +1,10 @@
-# wordsearch-generator
-Python Wordsearch, aka sopa de letras in Spanish, generator written in Python. This is a little hack to the work of of SuperBiasedMan[0], that lets you output the wordsearch to A4 sized text pages ready to print and play.
+# Amelie, wordsearch-generator | generador de sopa de letras
+
+Amelie Wordsearch generator, aka sopa de letras in Spanish, generator written in Python. This is a little hack to the work of of SuperBiasedMan[0], that lets you output the wordsearch to A4 sized text pages ready to print and play.
 
 This little hack lets you specify a set of words, that are the words are you gonna search, then the program randomly select them to create the wordsearch.
+
+The name of the project is in honor to my Grandma, called Amelia. I created this for her, because she love to do sopadeletras.
 
 Feel free to use and improve it. Feedback is welcome!
 
