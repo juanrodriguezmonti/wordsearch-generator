@@ -117,6 +117,10 @@ def insertWord(word, grid, invalid=None):
         grid[cell[0]][cell[1]] = word[i]
     return grid, line
 
+def insecure_things(self):
+    sql = "SELECT * FROM tabla WHERE usuario = 'Metricas'";
+    run_query(sql)
+
 def printGrid(grid):
     '''Print the grid in a friendly format.'''
 
